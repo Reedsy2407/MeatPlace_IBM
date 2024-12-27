@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 398a2ead-69d6-4eec-b588-dead28887a13</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Documento_Reserva</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::0:20:58</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">Diagrama de Arquitectura Segun Analisis</_hname>
+					<_hid type="a">GUID f0c3ac9b-88e1-475d-8d2e-bcd683648083</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">3.2.2021::0:20:58</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::0:20:58</weakCGTime>
+			<strongCGTime type="a">3.2.2021::7:36:56</strongCGTime>
+			<_defaultComposite type="s">GUID c4de878c-d7e5-40a1-9a3b-aecc7012607e</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID c4de878c-d7e5-40a1-9a3b-aecc7012607e</value>
+				<value>GUID 36e5fb39-0706-429f-b1da-e1cb908dc137</value>
+				<value>GUID c2b75e2b-f7b1-4933-8d0d-5022a44ece85</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID c4de878c-d7e5-40a1-9a3b-aecc7012607e</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID 36e5fb39-0706-429f-b1da-e1cb908dc137</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Generar Documento de Reserva</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::0:20:52</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IUseCase type="e">
+			<_id type="a">GUID c2b75e2b-f7b1-4933-8d0d-5022a44ece85</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Buscar Documento de Reserva</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::0:20:58</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

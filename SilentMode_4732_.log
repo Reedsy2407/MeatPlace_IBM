@@ -1,0 +1,33 @@
+2021-03-01 23:06:25.653-05:00 DESKTOP-EMLPBGH CRRHP0010I The Class CE_Pedido in Modelo_Analisis::Pedidos already exists do you want to reference it?
+2021-03-02 02:17:48.329-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_MenuPrincipal already exists in Package Modelo_Analisis::Pedidos. Set the name anyway?
+
+2021-03-02 02:18:07.923-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_MenuPrincipal already exists in Package Modelo_Analisis::Pedidos. Set the name anyway?
+
+2021-03-02 02:18:43.954-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_FiltradoDeMesas already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:19:59.704-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_Mesa already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:20:05.673-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_Reserva already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:29:11.204-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_Cliente already exists in Package Modelo_Analisis::Pedidos. Set the name anyway?
+
+2021-03-02 02:42:22.299-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_MenuPrincipal already exists in Package Modelo_Analisis::Pedidos. Set the name anyway?
+
+2021-03-02 02:42:34.299-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_FiltradoDeMesas already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:42:54.830-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_SeleccionDeMesa already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:43:09.033-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_DatosDeReserva already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:43:22.768-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_DatosDePago already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:45:41.127-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_Pago already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 02:45:49.344-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_Reserva already exists in Package Modelo_Analisis::Reserva. Set the name anyway?
+
+2021-03-02 03:21:03.956-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CI_BuscarPedido already exists in Package Modelo_Analisis::Pedidos. Set the name anyway?
+
+2021-03-02 03:22:24.940-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_Pedido already exists in Package Modelo_Analisis::Pedidos. Set the name anyway?
+
+2021-03-02 03:51:51.176-05:00 DESKTOP-EMLPBGH CRRHP0010I Class named CE_PagoReserva already exists in Package Modelo_Analisis::Pago. Set the name anyway?
+
